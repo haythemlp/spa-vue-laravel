@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "animsition": "^4.0.2",
-        "apexcharts": "^3.8.6",
+        "apexcharts": "^3.24.0",
         "font-awesome": "^4.7.0",
         "toastr": "^2.1.4",
         "vue-apexcharts": "^1.5.0",
